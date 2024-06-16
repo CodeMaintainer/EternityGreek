@@ -8,7 +8,7 @@
 // @downloadURL  https://github.com/CodeMaintainer/EternityGreek/raw/main/bypass-paywalls.user.js
 // @icon         https://cdn.jsdelivr.net/gh/CodeMaintainer/EternityGreek@0.0.1/assets/bypass-paywalls-icon-32.png
 // @run-at       document-end
-// @version      0.1.2
+// @version      0.1.3
 // @match        *://*.adweek.com/*
 // @match        *://*.ad.nl/*
 // @match        *://*.americanbanker.com/*
