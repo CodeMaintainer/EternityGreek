@@ -4,8 +4,8 @@
 // @author       LegeBeker (https://github.com/LegeBeker), (Fork from https://github.com/iamadamdev/bypass-paywalls-chrome)
 // @namespace    https://github.com/CodeMaintainer/EternityGreek/
 // @supportURL   https://github.com/CodeMaintainer/EternityGreek/issues
-// @updateURL    https://github.com/CodeMaintainer/EternityGreek/raw/main/bypass-paywall.user.js
-// @downloadURL  https://github.com/CodeMaintainer/EternityGreek/raw/main/bypass-paywall.user.js
+// @updateURL    https://github.com/CodeMaintainer/EternityGreek/raw/main/bypass-paywalls.user.js
+// @downloadURL  https://github.com/CodeMaintainer/EternityGreek/raw/main/bypass-paywalls.user.js
 // @icon         https://cdn.jsdelivr.net/gh/CodeMaintainer/EternityGreek@0.0.1/assets/bypass-paywalls-icon-32.png
 // @run-at       document-end
 // @version      0.1.2
