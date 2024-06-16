@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bypass Paywalls
-// @description  A way to bypass paywalls for popular news sites
+// @description  A way to bypass paywalls for popular news sites.
 // @author       LegeBeker (https://github.com/LegeBeker), (Fork from https://github.com/iamadamdev/bypass-paywalls-chrome)
 // @namespace    https://github.com/CodeMaintainer/EternityGreek/
 // @supportURL   https://github.com/CodeMaintainer/EternityGreek/issues
