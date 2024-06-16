@@ -6,7 +6,7 @@
 // @supportURL   https://github.com/CodeMaintainer/EternityGreek/issues
 // @updateURL    https://github.com/CodeMaintainer/EternityGreek/raw/main/remove-cookies.user.js
 // @downloadURL  https://github.com/CodeMaintainer/EternityGreek/raw/main/remove-cookies.user.js
-// @icon         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAQAAABpN6lAAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfkBhAPLAM1PCwiAAABZ0lEQVR42u3aPUoDURiG0bsBU6W2UKLrMQoWrkIY3Yu9INhaBldidBNGrJLXQhS9MYU4guM9TzkzCdyT+flIUookSZIkSVJV/nkAAAAAAABAywC9iw1srgEAAAAAAAAAbF7gd/f3PZn99vsBAAAAAAAAAPoD+PFgMvRBCAAAAAAAAADQG0DzgxAAAAAAAADg+wCTIAAAAAAAAOD/AX4ZAgAAAAAAAP4QwNACAAAAAAAAABiEAAAAAAAAAAAGIQAAmgdYVFu2Ph0+qvYuBr78ej2PJffVpoNPLzis9j4MHKBez7zktt6U8fvh48yrvTeDXv76emYl52uPznmmGWWUw7WzIzkd8Mn/1Xq6kv2s0mrLTEopuWoW4PL15NjNU5PLX2Tn7fqYNngZrHL88RZx1hjBKl19lzxq6EJ4zslXD4rtXGTZwGd/nd3NT8u9dJnlbm1A/g+3vLvM0mVSJEmSJEmSJElSo70AqgAJADOYlfQAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDYtMTZUMTU6NDM6NTcrMDA6MDAT/mVIAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTA2LTE2VDE1OjQzOjU3KzAwOjAwYqPd9AAAAABJRU5ErkJggg==
+// @icon         https://cdn.jsdelivr.net/gh/CodeMaintainer/EternityGreek@0.0.1/assets/remove-cookies-icon-32.png
 // @run-at       document-start
 // @version      0.0.0
 // @match        *://*.adweek.com/*
