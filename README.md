@@ -1,3 +1,5 @@
+> This script has been audited as safe by [`@MinecraftFuns`](https://github.com/MinecraftFuns). I removed some tracking scripts that were unintentionally copied from the original Chrome extension. I also patched the missing APIs that only browser extensions can access, allowing the code to run without errors, though it still lacks some important features due to the limitations of user scripts. Additionally, I've added a script to remove tracking cookies from these news sites before the page loads, which may improve privacy.
+
 <p align="center">
   <img src="https://github.com/iamadamdev/bypass-paywalls-chrome/blob/master/src/icons/bypass.png" width="75" height="75"/>
 </p>
